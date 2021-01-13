@@ -1,0 +1,16 @@
+{
+  "name": "don-du-sang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch main.scss style.css",
+    "pug": "pug -w./ -o ./ -P"
+  },
+  "author": "",
+  "license": "ISC"
+}
